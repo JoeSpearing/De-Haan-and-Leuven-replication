@@ -1,4 +1,4 @@
-# [MC number] [Manuscript Title] Validation and Replication results
+# [JLE-2020-3803] [De Haan and Leuven (2020)] Validation and Replication results
 
 > INSTRUCTIONS: Once you've read these instructions, DELETE THESE AND SIMILAR LINES.
 > In the above title, replace [Manuscript Title] with the actual title of the paper, and [MC number] with the Manuscript Central number (e.g., AEJPol-2017-0097)
@@ -26,6 +26,8 @@ Data description
 ### Data Sources
 
 > INSTRUCTIONS: Identify all INPUT data sources. Create a list (and commit the list together with this report) (not needed if filling out the "Data Citation and Information report"). For each data source, list in THIS document presence or absence of source, codebook/information on the data, and summary statistics. Summary statistics and codebook may not be necessary if they are available for public use data. In all cases, if the author of the article points to an online location for such information, that is OK. Check for data citation. IN THIS DOCUMENT, point out only a summary of shortcomings.
+
+- [] Analaysis data files mentioned, provided
 
 #### Example data
 
