@@ -23,8 +23,6 @@ Data description
 Data deposit
 ------------
 
-> INSTRUCTIONS: Most deposits will be at openICPSR, but all need to be checked for complete metadata. Detailed guidance is at [https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea-guidance.html](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea-guidance.html). 
-
 ### Requirements 
 
 No data deposit at openICPSR
@@ -49,15 +47,15 @@ Code description
 ----------------
 
 There are four provided stata do files:
-  anchecks.do
-  annlsy79.do
-  datanlsy79ed.do
-  grformat.do
-  main.do (nests all other do files in it)
+  - anchecks.do
+  - annlsy79.do
+  - datanlsy79ed.do
+  - grformat.do
+  - main.do (nests all other do files in it)
 
-- Program code does not identify which figure is produced by which program or line
+Program code does not identify which figure is produced by which program or line
 
-- Neither the program codes, nor the README, identify which tables are produced by what program.
+Neither the program codes, nor the README, identify which tables are produced by what program.
 
 Stated Requirements
 ---------------------
@@ -78,8 +76,6 @@ Actual Requirements, if different
 
 Computing Environment of the Replicator
 ---------------------
-
-> - (Windows) by right-clicking on "This PC"
 
 - Stata/MP 15
 
