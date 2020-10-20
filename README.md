@@ -38,5 +38,5 @@ How to run this (partial) replication
 ----------------------------
 1) download data files
 2) run do files 'datanlsy79ed.do' and 'anchecks.do' to recreate the dataset and initial analysis checks
-3) run R code 'partial_de_han_and_Leuven_replication'
+3) run R code 'partial_de_han_and_Leuven_replication' (this will automatically install the 'foreign', 'haven' and 'ggplot2' pacckages if not already installed)
  
