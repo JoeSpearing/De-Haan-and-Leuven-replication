@@ -33,6 +33,7 @@ Stata code ado files: these are not commented, and I cannot work out which one d
 
 R files
 ----------------------------
+ - partial_de_han_and_Leuven_replication.R: this does what annlsy79.do is supposed to do
 
 How to run this (partial) replication
 ----------------------------
